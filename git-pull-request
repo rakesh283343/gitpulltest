@@ -1,4 +1,4 @@
-#!/c/Users/rajangid/AppData/Local/Programs/Python/Python38-32/python
+#!/usr/bin/env python3
 
 import sys
 import getopt
@@ -168,3 +168,4 @@ def color_text(text, color_name, bold=False):
 
 if __name__ == "__main__":
     main()
+
